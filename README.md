@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **telemachosc@gmail.com**
 <p align="left">
-<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" /></a>
-<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" /></a>
+<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" /></a>
+<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/stackoverflow.png" /></a>
 </p>
 
 
