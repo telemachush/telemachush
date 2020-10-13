@@ -7,10 +7,11 @@
 ### I am currently employed as an Machine Learning Engineer at the private sector
 
 
-- 📫 How to reach me **telemachosc@gmail.com**
+-  How to reach me 
 <p align="left">
-<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" /></a>
-<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/stackoverflow.png" /></a>
+ 📫 **telemachosc@gmail.com** <br>
+<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" /></a> <br>
+<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/stackoverflow.png" /></a> <br>
 </p>
 
 
