@@ -8,11 +8,11 @@
 
 
 - 📫 How to reach me **telemachosc@gmail.com**
-<p align="center">
-<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="telemachosc" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11780135" height="30" width="30" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" /></a>
+<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" /></a>
 </p>
-<h3 align="center"></h3>
+
 
 ## Technologies I use 
 ---
