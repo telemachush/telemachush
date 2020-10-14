@@ -7,16 +7,10 @@
 ### I am currently employed as an Machine Learning Engineer at the private sector
 
 -  How to reach me:  
-[![mailbox] **telemachosc@gmail.com**](mailto:telemachosc@gmail.com?subject=I%20have%20a%20job%20for%20you!)  
+[<img align="center" src="https://img.icons8.com/fluent/32/000000/email-open.png"/> **telemachosc@gmail.com**](mailto:telemachosc@gmail.com?subject=I%20have%20a%20job%20for%20you!)  
 
-[<img align="center" src="https://img.icons8.com/fluent/32/000000/email-open.png"/>telemachosc ] 
-
-[mailbox]: <img align="center" src="https://img.icons8.com/fluent/32/000000/email-open.png"/>
-<p align="left">
-<a href="mailto:telemachosc@gmail.com"><img src="https://img.icons8.com/fluent/32/000000/email-open.png"/> telemachosc@gmail.com </a> <br> <br>
-<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" /></a> <br> <br>
-<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/stackoverflow.png" /></a> <br>
-</p>
+<a href="https://linkedin.com/in/telemachosc" target="blank"><img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" /></a>  
+<a href="https://stackoverflow.com/users/11780135" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/stackoverflow.png" /></a>  
 
 
 ## Technologies I use 
