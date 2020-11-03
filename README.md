@@ -25,7 +25,7 @@ _How to reach me_:
 ***
 
 
-![Telemacho's github stats](https://github-readme-stats.vercel.app/api?username=telemachosc&show_icons=true&theme=tokyonight)
+<!----- ![Telemacho's github stats](https://github-readme-stats.vercel.app/api?username=telemachosc&show_icons=true&theme=tokyonight)>
 
 <!----https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f>
 <!--- https://github.com/anuraghazra/github-readme-stats --->
