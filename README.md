@@ -15,9 +15,7 @@
 _How to reach me_:  
 
 [<img align="center" src="https://img.icons8.com/fluent/32/000000/email-open.png"/> ](mailto:telemachosc@gmail.com?subject=I%20have%20a%20job%20for%20you!)
-[<img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc" />]("https://linkedin.com/in/telemachosc")
-  
-
+[<img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachosc"/>](https://linkedin.com/in/telemachosc)
 
 ## Technologies used in my projects
 <p align="left">
