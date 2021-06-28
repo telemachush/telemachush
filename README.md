@@ -79,7 +79,8 @@ _How to reach me_:
   <td> <!---Version Control--->
     <p align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </p>
+      <img src="https://github.com/telemachosc/telemachosc/blob/048d9e2d44eaabeda58b0db312e5e97c92e4496f/static/icons/dagshub_no_letter.png" alt="git" width="50" />
+    </p>  
   </td>
 </table>
 
