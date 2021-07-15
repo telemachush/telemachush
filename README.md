@@ -33,8 +33,8 @@ _How to reach me_:
   </td>
   <td> <!---Front End--->
     <p align="center">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="48" height="48"/>
-      <img src="https://github.com/telemachosc/telemachosc/blob/93cc2ca2c70fe6310949cf6090977f84038473c6/static/icons/html5.png" alt="html5" width="48" height="48"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="48" height="48"/> </br>
+      <img src="https://github.com/telemachosc/telemachosc/blob/93cc2ca2c70fe6310949cf6090977f84038473c6/static/icons/html5.png" alt="html5" width="48" height="48"/> </br>
       <img src="https://github.com/telemachosc/telemachosc/blob/93cc2ca2c70fe6310949cf6090977f84038473c6/static/icons/css3.png" alt="CSS3" width="48" height="48"/>
     </p>
   </td>
@@ -51,8 +51,8 @@ _How to reach me_:
   </td>
    <td> <!---Frameworks--->
     <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>
-      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/numpy.png" alt="numpy" width="48" height="48"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/> </br>
+      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/numpy.png" alt="numpy" width="48" height="48"/> </br>
       <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/pandas.png" alt="pandas" height="48"/>
       <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/scikit.png" alt="scikit" height="48"/>
       <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/matplotlib.png" alt="matplotlib" height="48"/>
@@ -66,7 +66,7 @@ _How to reach me_:
   <td> <!---Deployment--->
     <p align="center">
       <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="48" height="48"/>
-      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/aws.png" alt="aws" width="48" height="48"/>
+      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/aws.png" alt="aws" width="48" height="48"/></br>
       <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/heroku_plain_wordmark_logo_icon_146480%20(1).png" alt="heroku" width="40" height="40"/>
     </p>
   </td>
@@ -79,7 +79,7 @@ _How to reach me_:
   <td> <!---Version Control--->
     <p align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      <img src="https://github.com/telemachosc/telemachosc/blob/048d9e2d44eaabeda58b0db312e5e97c92e4496f/static/icons/dagshub_no_letter.png" alt="git" width="50" />
+<!--       <img src="https://github.com/telemachosc/telemachosc/blob/048d9e2d44eaabeda58b0db312e5e97c92e4496f/static/icons/dagshub_no_letter.png" alt="git" width="50" /> -->
     </p>  
   </td>
 </table>
