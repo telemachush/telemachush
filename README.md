@@ -53,8 +53,8 @@ _How to reach me_:
     <p align="center">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/> </br>
       <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/numpy.png" alt="numpy" width="48" height="48"/> </br>
-      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/pandas.png" alt="pandas" height="48"/>
-      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/scikit.png" alt="scikit" height="48"/>
+      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/pandas.png" alt="pandas" height="48"/> </br>
+      <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/scikit.png" alt="scikit" height="48"/> </br>
       <img src="https://github.com/telemachosc/telemachosc/blob/c48e7e7dfb81f596030214b24ee8832cd591d525/static/icons/matplotlib.png" alt="matplotlib" height="48"/>
     </p>
   </td>
