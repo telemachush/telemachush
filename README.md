@@ -4,7 +4,7 @@
 
 # Welcome!
 
-I am a Machine Learning Engineer with a physics background. Made the switch in 2018 and have since begun a never ending knowledge journey in machine learning, artificial intelligence and software engineering. My interests include Computer Vision, Time Series and performance optimization of ML apps.
+I am a Software Engineer with a physics background. Made the switch in 2017 and have since begun a never ending knowledge journey in machine learning, artificial intelligence and software engineering.
 
 _How to reach me_:  
 
