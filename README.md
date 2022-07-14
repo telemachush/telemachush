@@ -4,7 +4,8 @@
 
 # Welcome!
 
-I am a Software Engineer with a physics background. Made the switch in 2017 and have since begun a never ending knowledge journey in machine learning, artificial intelligence and software engineering.
+I am a Software Engineer writing mainly in Python.
+
 
 _How to reach me_:  
 
