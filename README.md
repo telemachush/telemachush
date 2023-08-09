@@ -5,7 +5,7 @@
 # Welcome!
 
 I am a Software Engineer writing mainly in Python.
-
+Be sure to check my [blog](https://telemachus.dev)
 
 _How to reach me_:  
 
@@ -88,10 +88,8 @@ _How to reach me_:
 </table> -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telemachosc&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telemachosc&layout=compact&theme=tokyonight) ->
 
-
-***
 <!--  ![Telemachos's github stats](https://github-readme-stats.vercel.app/api?username=telemachosc&show_icons=true&theme=tokyonight) -->
 
 <!----https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f>
