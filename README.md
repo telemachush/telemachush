@@ -4,7 +4,7 @@
 
 # Welcome!
 
-I am a Software Engineer writing mainly in Python.
+Software Engineer writing mainly in Python.  
 Be sure to check my [blog](https://telemachus.dev)
 
 _How to reach me_:  
