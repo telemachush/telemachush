@@ -1,10 +1,21 @@
+<!--
 ![Header](https://github.com/telemachosc/telemachosc/blob/dfb8bdd12385d8bd64eb10e3eddf30d521cc23ef/static/network_banner.gif)
 >  _“It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”_  
 > — Arthur Conan Doyle, A Scandal in Bohemia
+-->
+> The doubters said,  
+> "Man can not fly,"  
+> The doers said,  
+> "Maybe, but we'll try,"  
+> And finally soared  
+> In the morning glow  
+> While non-believers  
+> Watched from below.  
+> -Bruce Lee
 
 # Welcome!
 
-Software Engineer writing mainly in Python.  
+Software Engineer, figuring things out! I like snakes, but I play well with everyone
 Be sure to check my [blog](https://telemachus.dev)
 
 _How to reach me_:  
@@ -94,4 +105,5 @@ _How to reach me_:
 
 <!----https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f>
 <!--- https://github.com/anuraghazra/github-readme-stats --->
+
 
