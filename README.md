@@ -1,7 +1,9 @@
 
 # Welcome, stranger!
 
-I am a software Engineer, figuring things out! I like snakes, but I play well with everyone!
+I am a software Engineer, figuring things out! 
+
+I like snakes, but I play well with everyone!
 
 Come check my [blog](https://telemachus.dev), we have candy 🍬! 
 
@@ -91,6 +93,7 @@ Come check my [blog](https://telemachus.dev), we have candy 🍬!
 
 <!----https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f>
 <!--- https://github.com/anuraghazra/github-readme-stats --->
+
 
 
 
