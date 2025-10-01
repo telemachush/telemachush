@@ -5,9 +5,8 @@ I am a software Engineer, figuring things out! I like snakes, but I play well wi
 
 Come check my [blog](https://telemachus.dev), we have candy 🍬! 
 
-_How to reach me_:  
 
-[<img align="center" src="https://img.icons8.com/?size=40&id=xLIkjgcmFOsC&format=png&color=000000"/> ](mailto:hello@telemachus.dev?subject=I%20have%20a%20job%20for%20you!)
+
 [<img align="center" src="https://icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="telemachush"/>](https://linkedin.com/in/telemachush)
 
 <!-- 
@@ -92,6 +91,7 @@ _How to reach me_:
 
 <!----https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f>
 <!--- https://github.com/anuraghazra/github-readme-stats --->
+
 
 
 
